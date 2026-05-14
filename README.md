@@ -1,2 +1,1 @@
-# BTVN
-Lập trình di động
+mobile app
